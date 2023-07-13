@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  },
+  "name": "web-development",
+  "version": "1.0.0",
+  "main": "23.1 Using node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aparajit Sharan",
+  "license": "ISC",
+  "description": ""
+}
